@@ -55,7 +55,14 @@
 			<artifactId>spring-security-web</artifactId>
 			<version>6.0.0</version>
 		</dependency>
-<!--		<dependency>-->
+		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-r2dbc -->
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-r2dbc</artifactId>
+			<version>3.0.4</version>
+		</dependency>
+
+		<!--		<dependency>-->
 <!--			<groupId>mysql</groupId>-->
 <!--			<artifactId>mysql-connector-java</artifactId>-->
 <!--			<version>8.0.31</version>-->
